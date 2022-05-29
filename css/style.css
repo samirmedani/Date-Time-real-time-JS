@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Koulen&display=swap");
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Koulen", cursive;
+  list-style: none;
+  text-decoration: none;
+}
+
+body {
+  background-color: #16173A;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body .container {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 450px;
+  font-size: 4rem;
+  color: #16173A;
+}/*# sourceMappingURL=style.css.map */
